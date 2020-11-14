@@ -1,5 +1,6 @@
 # Multiplayer-Game-using-Arduino-and-Android-Processing
 - Softwares: processing.org
+- Hardware: Ultrasonic sensors, touch sensors, arduino uno
 - Team size: 3
 
 - The project is regarding development of a multiplayer game wherein you use a combination of Arduino and Android/Processing capabilities for enabling a fun, new gaming experience. Our game is multiplayer with two shooters shooting at each other with bullets controlled by touch sensors . The shooters are controlled by two ultrasonic sensors
